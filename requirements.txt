@@ -1,0 +1,10 @@
+Werkzeug
+pymongo
+gunicorn
+Flask
+flask-marshmallow
+marshmallow
+mongomock
+PyJWT
+python-dotenv
+psycopg2
