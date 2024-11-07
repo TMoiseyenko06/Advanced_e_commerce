@@ -10,3 +10,4 @@ python-dotenv
 psycopg2
 flask_sqlalchemy
 flask_swagger_ui
+marshmallow-sqlalchemy
