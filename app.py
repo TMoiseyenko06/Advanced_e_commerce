@@ -41,3 +41,4 @@ def blue_print_config(app):
 
 app = create_app('DevelopmentConfig')
 
+app.run(debug=True)
